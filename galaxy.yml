@@ -1,0 +1,21 @@
+namespace: alikins
+name: collection_ntp
+version: 1.6.2
+license:
+  - MIT
+description: NTP installation and configuration for Linux.
+repository: null
+documentation: null
+homepage: null
+issues: null
+authors:
+  - geerlingguy
+tags:
+  - system
+  - ntp
+  - date
+  - time
+  - timezone
+license_file: null
+readme: null
+dependencies: {}
