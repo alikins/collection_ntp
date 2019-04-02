@@ -16,6 +16,5 @@ tags:
   - date
   - time
   - timezone
-license_file: null
-readme: null
+readme: "README.md"
 dependencies: {}
