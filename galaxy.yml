@@ -1,6 +1,6 @@
 namespace: alikins
-name: 2-invalid-4-galaxy-collection_ntp
-version: 0.1.174
+name: collection_ntp
+version: 0.1.175
 license:
   - MIT
 description: NTP installation and configuration for Linux.
