@@ -1,6 +1,6 @@
 namespace: alikins
 name: collection_ntp
-version: 0.1.172
+version: 0.1.173
 license:
   - MIT
 description: NTP installation and configuration for Linux.
